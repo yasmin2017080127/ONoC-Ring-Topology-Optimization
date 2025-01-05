@@ -1,0 +1,120 @@
+2024-12-11 17:20:08,311 - INFO - Starting simulation with parameters: nodes=20, partition_size=10, wc=0.7, wt=0.3
+2024-12-11 17:20:08,612 - INFO - Ring topology created successfully
+2024-12-11 17:20:08,613 - INFO - Network partitioned into 2 partitions
+2024-12-11 17:20:11,942 - ERROR - Simulation failed: Unable to determine Axes to steal space for Colorbar. Either provide the *cax* argument to use as the Axes for the Colorbar, provide the *ax* argument to steal space from it, or add *mappable* to an Axes.
+2024-12-11 17:20:32,581 - INFO - Starting simulation with parameters: nodes=20, partition_size=10, wc=0.7, wt=0.3
+2024-12-11 17:20:32,655 - INFO - Ring topology created successfully
+2024-12-11 17:20:32,656 - INFO - Network partitioned into 2 partitions
+2024-12-11 17:20:32,948 - ERROR - Simulation failed: Unable to determine Axes to steal space for Colorbar. Either provide the *cax* argument to use as the Axes for the Colorbar, provide the *ax* argument to steal space from it, or add *mappable* to an Axes.
+2024-12-11 17:21:27,412 - INFO - Starting simulation with parameters: nodes=20, partition_size=2, wc=0.7, wt=0.3
+2024-12-11 17:21:27,413 - INFO - Ring topology created successfully
+2024-12-11 17:21:27,414 - INFO - Network partitioned into 10 partitions
+2024-12-11 17:21:27,602 - ERROR - Simulation failed: Unable to determine Axes to steal space for Colorbar. Either provide the *cax* argument to use as the Axes for the Colorbar, provide the *ax* argument to steal space from it, or add *mappable* to an Axes.
+2024-12-11 17:21:33,842 - INFO - Starting simulation with parameters: nodes=20, partition_size=1, wc=0.7, wt=0.3
+2024-12-11 17:21:33,846 - INFO - Ring topology created successfully
+2024-12-11 17:21:33,847 - INFO - Network partitioned into 20 partitions
+2024-12-11 17:21:34,030 - ERROR - Simulation failed: Unable to determine Axes to steal space for Colorbar. Either provide the *cax* argument to use as the Axes for the Colorbar, provide the *ax* argument to steal space from it, or add *mappable* to an Axes.
+2024-12-11 17:21:43,857 - INFO - Starting simulation with parameters: nodes=20, partition_size=1, wc=0.6, wt=0.4
+2024-12-11 17:21:43,859 - INFO - Ring topology created successfully
+2024-12-11 17:21:43,860 - INFO - Network partitioned into 20 partitions
+2024-12-11 17:21:44,052 - ERROR - Simulation failed: Unable to determine Axes to steal space for Colorbar. Either provide the *cax* argument to use as the Axes for the Colorbar, provide the *ax* argument to steal space from it, or add *mappable* to an Axes.
+2024-12-11 17:25:33,563 - INFO - Starting simulation with parameters: nodes=20, partition_size=10, wc=0.7, wt=0.3
+2024-12-11 17:25:34,343 - INFO - Ring topology created successfully
+2024-12-11 17:25:34,344 - INFO - Network partitioned into 2 partitions
+2024-12-11 17:25:35,991 - ERROR - Simulation failed: Unable to determine Axes to steal space for Colorbar. Either provide the *cax* argument to use as the Axes for the Colorbar, provide the *ax* argument to steal space from it, or add *mappable* to an Axes.
+2024-12-11 17:33:26,529 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 17:33:26,536 - INFO - Ring topology created successfully
+2024-12-11 17:33:26,537 - INFO - Network partitioned into 4 partitions
+2024-12-11 17:33:33,787 - INFO - Simulation completed successfully
+2024-12-11 17:33:46,580 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 17:33:46,581 - INFO - Ring topology created successfully
+2024-12-11 17:33:46,582 - INFO - Network partitioned into 4 partitions
+2024-12-11 17:33:48,179 - INFO - Simulation completed successfully
+2024-12-11 17:39:42,878 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 17:39:42,894 - INFO - Ring topology created successfully
+2024-12-11 17:39:42,897 - INFO - Network partitioned into 4 partitions
+2024-12-11 17:41:07,209 - INFO - Simulation completed successfully
+2024-12-11 17:49:23,978 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 17:49:23,978 - INFO - Ring topology created successfully
+2024-12-11 17:49:23,994 - INFO - Network partitioned into 4 partitions
+2024-12-11 17:49:24,209 - ERROR - Simulation failed: unhashable type: 'list'
+2024-12-11 17:51:05,225 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 17:51:05,240 - INFO - Ring topology created successfully
+2024-12-11 17:51:05,241 - INFO - Network partitioned into 4 partitions
+2024-12-11 17:51:05,495 - ERROR - Simulation failed: 'int' object is not subscriptable
+2024-12-11 17:55:06,586 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 17:55:06,601 - INFO - Ring topology created successfully
+2024-12-11 17:55:06,601 - INFO - Network partitioned into 4 partitions
+2024-12-11 17:55:06,892 - ERROR - Simulation failed: 'int' object is not subscriptable
+2024-12-11 17:57:27,909 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 17:57:27,909 - INFO - Ring topology created successfully
+2024-12-11 17:57:27,909 - INFO - Network partitioned into 4 partitions
+2024-12-11 17:59:41,272 - INFO - Simulation completed successfully
+2024-12-11 18:08:02,144 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:08:02,421 - INFO - Ring topology created successfully
+2024-12-11 18:08:02,422 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:08:44,002 - INFO - Simulation completed successfully
+2024-12-11 18:30:21,338 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:30:21,339 - INFO - Ring topology created successfully
+2024-12-11 18:30:21,340 - INFO - Applied test scenario: create_test_scenario_1
+2024-12-11 18:30:21,341 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:32:54,986 - INFO - Simulation completed successfully
+2024-12-11 18:32:54,990 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:32:55,002 - INFO - Ring topology created successfully
+2024-12-11 18:32:55,003 - INFO - Applied test scenario: create_test_scenario_2
+2024-12-11 18:32:55,004 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:33:57,575 - INFO - Simulation completed successfully
+2024-12-11 18:35:01,945 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:35:01,945 - INFO - Ring topology created successfully
+2024-12-11 18:35:01,945 - INFO - Applied test scenario: create_test_scenario_1
+2024-12-11 18:35:01,945 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:35:42,878 - INFO - Simulation completed successfully
+2024-12-11 18:35:42,888 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:35:42,889 - INFO - Ring topology created successfully
+2024-12-11 18:35:42,890 - INFO - Applied test scenario: create_test_scenario_2
+2024-12-11 18:35:42,891 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:36:03,488 - INFO - Simulation completed successfully
+2024-12-11 18:41:36,524 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:41:36,524 - INFO - Ring topology created successfully
+2024-12-11 18:41:36,524 - INFO - Applied test scenario: create_test_scenario_1
+2024-12-11 18:41:36,524 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:42:18,141 - INFO - Simulation completed successfully
+2024-12-11 18:42:18,157 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:42:18,159 - INFO - Ring topology created successfully
+2024-12-11 18:42:18,160 - INFO - Applied test scenario: create_test_scenario_2
+2024-12-11 18:42:18,160 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:42:41,066 - INFO - Simulation completed successfully
+2024-12-11 18:50:28,104 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:50:28,107 - INFO - Ring topology created successfully
+2024-12-11 18:50:28,109 - INFO - Applied test scenario: create_test_scenario_1
+2024-12-11 18:50:28,111 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:50:51,032 - INFO - Simulation completed successfully
+2024-12-11 18:50:51,060 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:50:51,063 - INFO - Ring topology created successfully
+2024-12-11 18:50:51,081 - INFO - Applied test scenario: create_test_scenario_2
+2024-12-11 18:50:51,083 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:51:11,214 - INFO - Simulation completed successfully
+2024-12-11 18:56:39,638 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:56:39,641 - INFO - Ring topology created successfully
+2024-12-11 18:56:39,643 - INFO - Applied test scenario: create_test_scenario_1
+2024-12-11 18:56:39,643 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:56:48,483 - INFO - Simulation completed successfully
+2024-12-11 18:56:48,602 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 18:56:48,631 - INFO - Ring topology created successfully
+2024-12-11 18:56:48,637 - INFO - Applied test scenario: create_test_scenario_2
+2024-12-11 18:56:48,639 - INFO - Network partitioned into 4 partitions
+2024-12-11 18:56:56,647 - INFO - Simulation completed successfully
+2024-12-11 19:26:53,117 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 19:26:53,522 - INFO - Ring topology created successfully
+2024-12-11 19:26:53,522 - INFO - Applied test scenario: create_test_scenario_1
+2024-12-11 19:26:53,666 - INFO - Network partitioned into 4 partitions
+2024-12-11 19:28:06,271 - INFO - Simulation completed successfully
+2024-12-11 19:28:06,297 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2024-12-11 19:28:06,307 - INFO - Ring topology created successfully
+2024-12-11 19:28:06,314 - INFO - Applied test scenario: create_test_scenario_2
+2024-12-11 19:28:06,326 - INFO - Network partitioned into 4 partitions
+2024-12-11 19:28:16,048 - INFO - Simulation completed successfully
+2025-01-05 22:50:28,876 - INFO - Starting simulation with parameters: nodes=20, partition_size=5, wc=0.7, wt=0.3
+2025-01-05 22:50:28,998 - INFO - Ring topology created successfully
+2025-01-05 22:50:28,998 - INFO - Network partitioned into 4 partitions
+2025-01-05 22:51:21,627 - INFO - Simulation completed successfully
